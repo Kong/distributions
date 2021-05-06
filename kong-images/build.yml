@@ -1,0 +1,17 @@
+bumper:
+    name: bumper-ee
+    key_name: bumper-ee
+    repo_name: bumper-ee
+    github_url: git@github.com:jeremymv2/bumper-ee.git
+    version: next/2.4.x.x
+enterprise:
+  - name: bumper-plugin
+    key_name: bumper-plugin
+    repo_name: bumper-plugin
+    github_url: git@github.com:jeremymv2/bumper.git
+    version: 3.3.0
+  - name: some-other-plugin
+    key_name: other-plugin
+    repo_name: other-plugin
+    github_url: git@github.com:jeremymv2/other.git
+    version: 1.2.3

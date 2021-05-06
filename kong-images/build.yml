@@ -7,7 +7,7 @@ bumper:
 enterprise:
   - name: bumper-plugin
     key_name: bumper-plugin
-    repo_name: bumper-plugin
+    repo_name: bumper
     github_url: git@github.com:jeremymv2/bumper.git
     version: 3.3.0
   - name: some-other-plugin

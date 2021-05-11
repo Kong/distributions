@@ -10,6 +10,11 @@ enterprise:
     repo_name: bumper
     github_url: git@github.com:jeremymv2/bumper.git
     version: 3.4.2
+  - name: bumper2-plugin
+    key_name: bumper2-plugin
+    repo_name: bumper2
+    github_url: git@github.com:jeremymv2/bumper2.git
+    version: 0.1.1
   - name: some-other-plugin
     key_name: other-plugin
     repo_name: other-plugin

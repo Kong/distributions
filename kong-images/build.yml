@@ -9,7 +9,7 @@ enterprise:
     key_name: bumper-plugin
     repo_name: bumper
     github_url: git@github.com:jeremymv2/bumper.git
-    version: 3.5.17
+    version: 3.5.19
   - name: bumper2-plugin
     key_name: bumper2-plugin
     repo_name: bumper2

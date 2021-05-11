@@ -14,7 +14,7 @@ enterprise:
     key_name: bumper2-plugin
     repo_name: bumper2
     github_url: git@github.com:jeremymv2/bumper2.git
-    version: 0.1.2
+    version: 0.1.3
   - name: some-other-plugin
     key_name: other-plugin
     repo_name: other-plugin

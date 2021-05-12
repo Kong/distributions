@@ -24,4 +24,4 @@ enterprise:
     key_name: bumper3-plugin
     repo_name: bumper3
     github_url: git@github.com:jeremymv2/bumper3.git
-    version: 0.38.1
+    version: 0.38.6

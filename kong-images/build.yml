@@ -20,3 +20,8 @@ enterprise:
     repo_name: other-plugin
     github_url: git@github.com:jeremymv2/other.git
     version: 1.2.3
+  - name: bumper3-plugin
+    key_name: bumper3-plugin
+    repo_name: bumper3
+    github_url: git@github.com:jeremymv2/bumper3.git
+    version: 0.38.0
